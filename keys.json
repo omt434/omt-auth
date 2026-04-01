@@ -1,10 +1,22 @@
 {
-  "OMT-OWNER-GOD-MODE": {
+  "OMT-PUCA-01": {
+    "user_name": "puca",
+    "discord_id": "YOUR_DISCORD_ID",
+    "hwid": "PASTE_YOUR_HWID_HERE",
     "expiry": "2099-12-31 23:59:59",
-    "discord_id": "1478026643644874895"
+    "status": "paid",
+    "notes": "First user"
   },
-  "OMT-TRIAL-TONIGHT": {
-    "expiry": "2026-04-04 23:00:00",
-    "discord_id": "ANY"
+  "SAMPLE-KEY-001": {
+    "user_name": "Rahul (Friend)",
+    "discord_id": "123456789012345678",
+    "hwid": "NONE",
+    "expiry": "2026-12-31 23:59:59",
+    "status": "paid",
+    "notes": "Iska HWID NONE rakha hai, bot pehli baar chalte hi webhook bhejega"
+  },
+  "TRIAL_USED_LIST": {
+    "HWID-EXAMPLE-123": "Used on 2026-04-01",
+    "HWID-EXAMPLE-456": "Used on 2026-04-02"
   }
 }
