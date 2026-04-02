@@ -8,12 +8,12 @@
     "notes": "First user"
   },
   "SAMPLE-KEY-001": {
-    "user_name": "Rahul (Friend)",
-    "discord_id": "123456789012345678",
-    "hwid": "NONE",
-    "expiry": "2026-12-31 23:59:59",
+    "user_name": "Arcade (Lodu)",
+    "discord_id": "1477632288840876213",
+    "hwid": "R313NRCX007FMTMB",
+    "expiry": "3026-12-31 23:59:59",
     "status": "paid",
-    "notes": "Iska HWID NONE rakha hai, bot pehli baar chalte hi webhook bhejega"
+    "notes": "Lodu"
   },
   "TRIAL_USED_LIST": {
     "R313NRCX007FMTMB": "Used on 2026-04-02",
