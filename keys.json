@@ -15,6 +15,14 @@
     "status": "paid",
     "notes": "Lodu"
   },
+  "SAMPLE-KEY-002": {
+    "user_name": "Omt",
+    "discord_id": "1477632288840876213",
+    "hwid": "None",
+    "expiry": "3026-12-31 23:59:59",
+    "status": "paid",
+    "notes": "Boss"
+    },
   "TRIAL_USED_LIST": {
     "R313NRCX007FMTMB": "Used on 2026-04-02",
     "HWID-EXAMPLE-456": "Used on 2026-04-02"
